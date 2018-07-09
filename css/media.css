@@ -1,0 +1,403 @@
+
+@media (max-height: 600px) and (min-height: 540px) {
+
+	.logo {
+		padding-top: 3%;
+	}
+	h1 {
+		font-size: 60px;
+		margin-bottom: 15px;
+	}
+}
+
+
+@media (max-height: 600px) and (min-height: 491px) {
+
+	.logo {
+		padding-top: 3%;
+	}
+	h1 {
+		font-size: 54px;
+		margin-bottom: 15px;
+	}
+	.numbers {
+		margin-top: 20px;
+		font-size: 90px;
+	}
+	.days, .hours, .minutes, .seconds {
+		width: 200px;
+		height: 160px;
+		font-size: 22px;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: 100px solid transparent;
+		border-right: 100px solid transparent;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: 100px solid transparent;
+		border-right: 100px solid transparent;
+    }
+
+}
+
+
+@media (max-height: 490px) and (min-height: 441px) {
+
+	.logo {
+		padding-top: 2%;
+	}
+	h1 {
+		font-size: 48px;
+		margin-bottom: 10px;
+	}
+	.numbers {
+		margin-top: 0;
+		font-size: 86px;
+	}
+	.days, .hours, .minutes, .seconds {
+		width: 180px;
+		height: 140px;
+		font-size: 22px;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: 90px solid transparent;
+		border-right: 90px solid transparent;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: 90px solid transparent;
+		border-right: 90px solid transparent;
+    }
+
+}
+@media (max-height: 440px) and (min-height: 150px) {
+
+	.logo {
+		padding-top: 1%;
+	}
+
+	h1 {
+		font-size: 36px;
+		margin-bottom: 5px;
+	}
+
+	.numbers {
+		margin-top: 0;
+		font-size: 60px;
+	}
+
+	.days, .hours, .minutes, .seconds {
+		width: 160px;
+		height: 110px;
+		font-size: 18px;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: 80px solid transparent;
+		border-right: 80px solid transparent;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: 80px solid transparent;
+		border-right: 80px solid transparent;
+    }
+
+}
+
+
+
+
+@media (max-width: 1280px) and (min-width: 1031px) {
+
+	h1 {
+		font-size: 52px;
+	}
+
+	.days, .hours, .minutes, .seconds {
+		width: 200px;
+		height: 150px;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: 100px solid transparent;
+		border-right: 100px solid transparent;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: 100px solid transparent;
+		border-right: 100px solid transparent;
+	}
+	
+	.numbers {
+		margin-top: 22px;
+		font-size: 72px;
+	}
+}
+
+
+@media (max-width: 1030px) and (min-width: 831px) {
+
+	h1 {
+		font-size: 46px;
+		letter-spacing: 1;  
+	}
+
+	.days, .hours, .minutes, .seconds {
+		width: 160px;
+		height: 115px;
+		font-size: 18px;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: 80px solid transparent;
+		border-right: 80px solid transparent;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: 80px solid transparent;
+		border-right: 80px solid transparent;
+	}
+	
+	.numbers {
+		margin-top: 0;
+		font-size: 66px;
+	}
+}
+
+
+@media (max-width: 830px) and (min-width: 631px) {
+
+	h1 {
+		font-size: 42px;
+		letter-spacing: 1;  
+	}
+
+	.days, .hours, .minutes, .seconds {
+		width: 120px;
+		height: 90px;
+		font-size: 14px;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: 60px solid transparent;
+		border-right: 60px solid transparent;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: 60px solid transparent;
+		border-right: 60px solid transparent;
+	}
+	
+	.numbers {
+		margin-top: 0;
+		font-size: 54px;
+	}
+}
+
+
+
+@media (max-width: 630px) and (min-width: 531px) {
+
+	h1 {
+		font-size: 32px;
+		letter-spacing: 1;  
+	}
+
+	.days, .hours, .minutes, .seconds {
+		width: 100px;
+		height: 70px;
+		font-size: 12px;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: 50px solid transparent;
+		border-right: 50px solid transparent;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: 50px solid transparent;
+		border-right: 50px solid transparent;
+	}
+	
+	.numbers {
+		margin-top: 0;
+		font-size: 36px;
+	}
+}
+
+
+@media (max-width: 530px) and (min-width: 431px) {
+
+	h1 {
+		font-size: 32px;
+		letter-spacing: 1;  
+	}
+
+	.days, .hours, .minutes, .seconds {
+		width: 80px;
+		height: 45px;
+		font-size: 9px;
+		text-shadow: 
+				0 1px 0 #ccc, 
+				0 2px 0 #c9c9c9;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: 40px solid transparent;
+		border-right: 40px solid transparent;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: 40px solid transparent;
+		border-right: 40px solid transparent;
+	}
+	
+	.numbers {
+		margin-top: 0;
+		font-size: 28px;
+	}
+}
+
+
+@media (max-width: 430px) and (min-width: 289px) {
+
+	.container {
+		width: 100%;
+	}
+
+	h1 {
+		font-size: 28px;
+		letter-spacing: 1;  
+	}
+
+	.days, .hours, .minutes, .seconds {
+		width: 66px;
+		height: 38px;
+		font-size: 8px;
+		text-shadow: none;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: 33px solid transparent;
+		border-right: 33px solid transparent;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: 33px solid transparent;
+		border-right: 33px solid transparent;
+	}
+	
+	.numbers {
+		margin-top: 0;
+		padding-bottom: 3px;
+		font-size: 22px;
+	}
+}
+
+
+@media (max-width: 288px) and (min-width: 1px) {
+
+	.container {
+		width: 100%;
+	}
+
+	.logo {
+		display: none;
+	}
+
+	h1 {
+		margin-top: 15px;
+		font-size: 18px;
+		letter-spacing: 1;  
+	}
+
+	.days, .hours, .minutes, .seconds {
+		display: block;
+		margin: 10px auto;
+		width: 100px;
+		height: 100px;
+		font-size: 8px;
+		text-shadow: none;
+		border-radius: 50%;
+	  }
+
+	.days:before, 
+	.hours:before, 
+	.minutes:before, 
+	.seconds:before {
+		border-left: none;
+		border-right: none;
+	}
+	
+	.days:after , 
+	.hours:after, 
+	.minutes:after, 
+	.seconds:after {
+		border-left: none;
+		border-right: none;
+	}
+	
+	.numbers {
+		margin-top: 0;
+		padding-top: 20px;
+		padding-bottom: 3px;
+		font-size: 32px;
+	}
+}
